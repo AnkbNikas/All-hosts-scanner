@@ -12,7 +12,7 @@ Abre un editor de texto, copia el código y guárdalo como all_hosts_scanner.py.
 
 Cómo ejecutar el script:
 
-Abrir una terminal
+Abre una terminal o cmd en tu sistema.
 
 Navegar al directorio donde guardaste el script: 
 
